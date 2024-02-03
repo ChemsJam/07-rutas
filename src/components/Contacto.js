@@ -1,12 +1,11 @@
-import React from 'react'
+import React from "react";
 
 export const Contacto = () => {
   return (
     <div>
-        
-        <h1>Página de articulos</h1>
-        <p>Página de Articulos</p>
-
+      <h1>Article page</h1>
+      <p>Article page</p>
+      
     </div>
-  )
-}
+  );
+};
